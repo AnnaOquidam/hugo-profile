@@ -1,9 +1,5 @@
 /* projects */
 
-#projects h3 {
-    color: var(--text-secondary-color) !important;
-}
-
 #projects a {
     text-decoration: none;
     color: var(--text-link-color) !important;
@@ -57,8 +53,4 @@
     transition: none;
     border-radius: .5rem !important;
     border-color: var(--primary-color) !important;
-}
-
-#projects .float-end .btn:focus {
-    box-shadow: none !important;
 }
